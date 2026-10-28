@@ -16,8 +16,7 @@ ROS 2 系统的端到端延迟直接影响机器人感知与控制的实时性�
 
 | 目录 | 内容 |
 | --- | --- |
-| [`docx/`](docx/) | 《ROS 2 延迟优化指南》全文、中间件调研、核心论文解读、实验报告 |
-| [`md/`](md/) | AGX Orin 实测结果报告(RealSense D455 / RoboSense Airy) |
+| [`docx/`](docx/) | 《ROS 2 延迟优化指南》全文、中间件调研、核心论文解读、AGX Orin 实测实验报告 |
 
 ## License
 
